@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yukio666@gmail.com
+	name = Victor Yamanaka
